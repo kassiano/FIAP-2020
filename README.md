@@ -1,7 +1,7 @@
 
 # Instruções
 
-Faça um clone desse repositório,resolva os exercicios (Cada um em um arquivo separado). Depois faça um Pull Request para esse repositório.
+Faça um Fork desse repositório,resolva os exercicios (Cada um em um arquivo separado). Depois faça um Pull Request para esse repositório.
 
 
 # Exercicios Introdução ao Kotlin
